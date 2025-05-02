@@ -1,0 +1,15 @@
+#header{
+    text-align: center;
+  
+    background-color: rgb(75, 143, 215);
+    border: 100px
+}
+#profile {
+    display: flex;
+    justify-content: left;
+  }
+
+  #logout{
+    display: flex;
+    justify-content: right;
+  }
